@@ -8,7 +8,7 @@ JavaScriptTraining2014
 
 
 ### 目次
-1. [introduction]
+1. [introduction](https://github.com/kojikita/JavaScriptTraining2014/wiki/introduction)
 2. [install node.js](https://github.com/kojikita/JavaScriptTraining2014/wiki/install-node.js)
 3. [bower]
 4. [XHMHttpRequest](https://github.com/kojikita/JavaScriptTraining2014/wiki/XHMHttpRequest)
