@@ -12,4 +12,4 @@ JavaScriptTraining2014
 2. [install node.js](https://github.com/kojikita/JavaScriptTraining2014/wiki/install-node.js)
 3. [bower]
 4. [XHMHttpRequest](https://github.com/kojikita/JavaScriptTraining2014/wiki/XHMHttpRequest)
-5. [JSONP]
+5. [JSONP](https://github.com/kojikita/JavaScriptTraining2014/wiki/JSONP)
