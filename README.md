@@ -4,7 +4,7 @@ JavaScriptTraining2014
 
 ### 概要
 実施日時：2014年4月18日（10:30-18:30）  
-事前課題：[codecademy javascript](http://www.codecademy.com/ja/tracks/javascript)
+事前課題：[codecademy javascript](http://www.codecademy.com/ja/tracks/javascript)  
 事前準備：Chromeのインストールをお願いします
 
 ### 目次
