@@ -1,4 +1,4 @@
-function kazuko(nickname, bloodType) {
+function luck(nickname, bloodType) {
     var result = "";
     switch (bloodType) {
         case "A"  : result = "大吉"; break;

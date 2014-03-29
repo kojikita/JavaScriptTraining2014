@@ -10,9 +10,14 @@ window.onload = function() {
         if (selectedBloodType !== "default") {
             var nicknameArea = document.getElementById("nickname");
             var nickname = nicknameArea.value;
-
-            var resultText = luck(nickname, selectedBloodType);
-
+            var result = "";
+            switch (selectedBloodType) {
+                case "A"  : result = "大吉"; break;
+                case "B"  : result = "吉";   break;
+                case "O"  : result = "凶";   break;
+                case "AB" : result = "大凶"; break;
+            }
+            var resultText = nickname + "さんの運勢は" + result + "です。";
             drawResult(resultText);
         }
     }
