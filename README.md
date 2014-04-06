@@ -27,8 +27,8 @@ $ git clone https://github.com/kojikita/JavaScriptTraining2014.git
 
 ### 目次
 1. [introduction](https://github.com/kojikita/JavaScriptTraining2014/wiki/introduction)
-2. [DOM](https://github.com/kojikita/JavaScriptTraining2014/wiki/DOM)
-3. [install node.js](https://github.com/kojikita/JavaScriptTraining2014/wiki/install-node.js)（インストール済み）
+2. [install node.js](https://github.com/kojikita/JavaScriptTraining2014/wiki/install-node.js)（インストール済み）
+3. [DOM](https://github.com/kojikita/JavaScriptTraining2014/wiki/DOM)
 4. [XMLHttpRequest](https://github.com/kojikita/JavaScriptTraining2014/wiki/XMLHttpRequest)
 5. [JSONP](https://github.com/kojikita/JavaScriptTraining2014/wiki/JSONP)
 6. [bower]
