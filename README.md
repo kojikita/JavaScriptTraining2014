@@ -11,5 +11,5 @@ JavaScriptTraining2014
 1. [introduction](https://github.com/kojikita/JavaScriptTraining2014/wiki/introduction)
 2. [install node.js](https://github.com/kojikita/JavaScriptTraining2014/wiki/install-node.js)（研修ではインストール済み）
 3. [bower]
-4. [XHMHttpRequest](https://github.com/kojikita/JavaScriptTraining2014/wiki/XHMHttpRequest)
+4. [XMLHttpRequest](https://github.com/kojikita/JavaScriptTraining2014/wiki/XMLHttpRequest)
 5. [JSONP](https://github.com/kojikita/JavaScriptTraining2014/wiki/JSONP)
