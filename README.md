@@ -31,4 +31,4 @@ $ git clone https://github.com/kojikita/JavaScriptTraining2014.git
 3. [DOM](https://github.com/kojikita/JavaScriptTraining2014/wiki/DOM)
 4. [XMLHttpRequest](https://github.com/kojikita/JavaScriptTraining2014/wiki/XMLHttpRequest)
 5. [JSONP](https://github.com/kojikita/JavaScriptTraining2014/wiki/JSONP)
-6. [bower]
+6. [bower](https://github.com/kojikita/JavaScriptTraining2014/wiki/bower)
